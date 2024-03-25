@@ -1,2 +1,6 @@
-# miniature-pancake
-Active learner,communication,leadership,beginner in programming 
+# miniature_pancake
+Activelearner
+communication skills 
+Management skills
+leadership 
+Beginner in programming 
